@@ -1,4 +1,4 @@
-# How to create a free Oracle VPS with Python script (Out of capacity)?
+# How To: Create a free Oracle VPS with Python script (Out of capacity) by Tri Nguyen
 
 ## Introduction
 Oracle allow us to create free resources (such as VM) at their cloud services for testing. For examples, a VM.Standard.A1.Flex with maximal 4 OCPU and 24GB RAM is a good deal to host a website. However, the deal isn’t always available because the demand is always more then what Oracle can provide. If you try to create a free VM for now, you’ll receive an error “Out of capacity” most of the time. In this post, I’ll show you how to run a script which runs over the time and tries to create a VM until it gets success.

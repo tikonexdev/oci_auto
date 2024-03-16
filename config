@@ -1,6 +1,6 @@
 [DEFAULT]
-user=ocid1.user.oc1..**********************************
-fingerprint=*****************************
-tenancy=ocid1.tenancy.oc1..********************************************************************
-region=ap-**********************************
+user=ocid1.user.oc1..aaaaaaaaaupqhopjdijibgd2vqg6arjnwufdoow3jqmschi7j74mrymfi2ba
+fingerprint=37:3c:9b:33:4d:4c:bf:da:1b:9d:5c:de:5b:af:92:99
+tenancy=ocid1.tenancy.oc1..aaaaaaaapt4d25lmq26gdlxwjnegrvcomcizff5ecnvegb77n4umxxxwqqnq
+region=eu-frankfurt-1
 key_file=oci_private_key.pem
